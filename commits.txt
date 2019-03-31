@@ -1,0 +1,17 @@
+commit 57b325b043417637e3bc0a11c719811f0ce03ce4 (HEAD -> master)
+Author: alfonso <Alfonso>
+Date:   Sun Mar 31 14:26:16 2019 -0600
+
+    se modifican las redes sociales
+
+commit 2c134b721a9b9f6bfd6485ac49a74d48cfc004a7
+Author: alfonso <Alfonso>
+Date:   Sun Mar 31 14:17:02 2019 -0600
+
+    segunda modificación según lo acordado
+
+commit 4cab1f502ebbd2385b0b3936f124422c75d466a7
+Author: alfonso <Alfonso>
+Date:   Sun Mar 31 13:57:16 2019 -0600
+
+    inicio del proyecto
